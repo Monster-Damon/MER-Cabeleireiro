@@ -1,0 +1,25 @@
+tb_acesso: Guarda as informações de acesso do funcionário para caso o administrador
+queira alterar.
+
+tb_funcionario: Contém as informações do funcionário.
+
+tb_agendamento: É a tabela que guardará os agendamentos dos clientes.
+
+tb_corte: Guarda os tipos de cortes e seus respectivos valores.
+
+tb_produto: Guarda os nomes dos produtos e seus valores.
+
+tb_estoque: Contém os produtos e se estão disponíveis.
+
+tb_cliente: Guarda as informações do cliente.
+
+tb_venda: é a tabela de vendas, pegando a informação do funcionário vendedor, o cliente para 
+qual o produto será vendido e confirmando se o produto está disponível no estoque.
+
+tb_venda_produto: Um produto pode ter várias vendas, assim como posso vende
+r vários produtos sendo relação N pra N formando a nova tabela que irá informar quantos produto o
+cliente comprou.
+
+
+
+
